@@ -4,8 +4,8 @@ const nextConfig = {
   async redirects(){
     return [
       {
-        source: '/cosmiccowboys',
-        destination: 'https://cosmiccowboys.cloud',
+        source: '/vacationhotspots',
+        destination: 'https://travel.usnews.com/rankings/worlds-best-vacations/',
         permanent: false
       },
       {
